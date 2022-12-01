@@ -25,4 +25,4 @@ int main()
   }
   void output(int a, int b, int sum){
    printf("the sum of %d and %d is %d\n",a,b,sum);
-    }
+    } 
