@@ -21,5 +21,5 @@ void main ()
     }
         if(count>2){    
         }
-       printf("total composite number are: %d",count);
+ printf("total composite number are: %d",count);
 }
