@@ -17,5 +17,5 @@ int main()
     }
 
     printf("Square root of %lf = %lf", n, x);
-    return 0;
+     return 0;
 }
