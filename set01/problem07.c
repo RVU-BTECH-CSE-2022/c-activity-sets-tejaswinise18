@@ -16,4 +16,4 @@ int main()
     printf("Sum of all natural numbers until %d: %d\n", n, sum);
 
     return 0;
-}
+ }
