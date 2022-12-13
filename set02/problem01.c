@@ -11,5 +11,5 @@ int main()
     printf("\nEnter three sides of triangle\n");
     scanf("%f%f%f",&a,&b,&c);
     printf("\n Area of triangle: %.2f\n", calc_area(a,b,c));
-    return 0;
+     return 0;
   }
