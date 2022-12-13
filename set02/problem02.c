@@ -16,5 +16,5 @@ int main()
     {  
         printf("This is a scalene triangle.\n");  
     }
-  return 0;
+   return 0;
 }
