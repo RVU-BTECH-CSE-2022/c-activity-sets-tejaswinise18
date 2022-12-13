@@ -16,6 +16,6 @@ int main()
  if (str1[i] > str2[i])
 		printf ("First string is greater than Second string\n");
 	else if (str1[i] < str2[i])
-		printf("Second string is greater than First string\n");
+		 printf("Second string is greater than First string\n");
   }
  
