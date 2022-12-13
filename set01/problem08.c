@@ -17,5 +17,5 @@ int main()
   
     printf("Sum of entered integers = %d\n",sum); 
   
-    return 0; 
-}
+     return 0; 
+ }
