@@ -19,4 +19,3 @@ int main()
 		printf("Second string is greater than First string\n");
   }
  
-  
