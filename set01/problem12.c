@@ -31,5 +31,5 @@ int main()
     }
 
     printf("Sum of the complex numbers = %.1f + %.1fi", sumReal, sumImag);
-    return 0;
+ return 0;
 }
